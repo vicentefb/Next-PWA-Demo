@@ -9,6 +9,7 @@ npm run dev
 # or
 yarn dev
 ```
+To create the manifest.json you can go to https://www.simicart.com/manifest-generator.html/
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
